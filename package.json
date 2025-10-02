@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-checkpoint",
+  "version": "1.0.0",
+  "description": "MongoDB CRUD operations checkpoint",
+  "main": "mongodb_operations.js",
+  "scripts": {
+    "start": "node mongodb_operations.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
